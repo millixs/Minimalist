@@ -2,8 +2,6 @@
 
 A collection of quirky, creative, and curiosity-driven projects built simply because they seemed interesting to explore.
 
-Some solve real problems, others exist purely for fun or the challenge of creating them. This repository is a playground for learning, exploring, and turning interesting concepts into working code.
-
 ## Explore
  
 - [`calendar display`](Calendar-Display)
