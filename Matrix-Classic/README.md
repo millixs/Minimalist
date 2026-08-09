@@ -1,4 +1,4 @@
-# Matrix Classic
+# `matrix classic`
 
 A minimalist matrix rain animation built with HTML5 Canvas, CSS, and vanilla JavaScript. This project creates a full-screen animated effect inspired by the Matrix movie, with falling characters rendered on two canvas layers.
 
