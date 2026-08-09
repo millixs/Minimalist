@@ -1,4 +1,4 @@
-# Minimalist
+# Minimalist —
 
 A collection of quirky, creative, and curiosity-driven projects built simply because they seemed interesting to explore.
 
