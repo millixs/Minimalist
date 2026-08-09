@@ -1,4 +1,4 @@
-# qr code generator
+# `qr code generator`
 
 This is a minimalist Python script that generates a QR code from any URL you provide, using the `qrcode` library, and saves it as an image file to a location of your choice.
 
