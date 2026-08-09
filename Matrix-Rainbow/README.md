@@ -1,6 +1,6 @@
 # `matrix: rainbow`
 
-This is a minimalist Matrix style animation built with HTML, CSS, and JavaScript using the HTML5 canvas API. It creates a falling digital rain effect with layered canvases for a smooth and visually striking presentation.
+This is a minimalist Matrix style animation built with HTML, CSS, and JavaScript using the HTML5 canvas API. It creates a falling digital rain effect with layered canvases and multicolored ASCII characters for a smooth and visually striking presentation.
 
 ![Matrix Demo](demo.gif)
 
