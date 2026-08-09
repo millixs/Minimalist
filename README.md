@@ -4,19 +4,17 @@ A collection of quirky, creative, and curiosity-driven projects built simply bec
 
 Some solve real problems, others exist purely for fun or the challenge of creating them. This repository is a playground for learning, exploring, and turning interesting concepts into working code.
 
-## Projects
-
-| Project | Description |
-|----------|-------------|
-| [Calendar Display](./Calendar-Display) | Displays calendars in a clean and organized format. |
-| [Dice Roller](./Dice-Roller) | Simulates rolling one or more dice with random outcomes. |
-| [Donut](./Donut) | Fun terminal-based spinning ASCII donut animation. |
-| [Editor](./Editor) | A simple text/code editor project. |
-| [Matrix Classic](./Matrix-Classic) | Creates a classic green Matrix Rain ASCII animation. |
-| [Matrix Rainbow](./Matrix-Rainbow) | Matrix Rain animation with multicolored ASCII characters. |
-| [Music Player](./Music-Player) | A simple music player project. |
-| [Progression GPA](./Progression-GPA) | Calculates CGPA and displays a progression graph. |
-| [QR Code](./QR-code) | Generates QR code img from user-provided text or links. |
+## Explore
+ 
+- [`calendar display`](Calendar-Display)
+- [`dice roller`](Dice-Roller)
+- [`donut`](Donut)
+- [`editor`](Editor)
+- [`matrix classic`](Matrix-Classic)
+- [`matrix rainbow`](Matrix-Rainbow)
+- [`music player`](Music-Player)
+- [`progression gpa`](Progression-GPA)
+- [`qr code`](QR-code)
 
 ## Repository Structure
 
@@ -34,14 +32,6 @@ Minimalist/
 ├── QR-code/
 └── README.md
 ```
-
-## Why This Repository?
-
-- Practice through small projects
-- Learn programming concepts incrementally
-- Explore different ideas without large codebases
-- Build consistency through regular development
-- Create a personal archive of experiments and mini-projects
 
 ## Technologies
 
