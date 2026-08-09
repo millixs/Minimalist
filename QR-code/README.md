@@ -1,6 +1,6 @@
 # `qr code generator`
 
-This is a minimalist Python script that generates a scannable QR code from any URL you provide, using the qrcode library, encoding the link into a compact image that can be saved locally and shared or scanned from a phone camera.
+This is a minimalist Python script that generates a scannable QR code from any URL you provide, using the `qrcode` library, encoding the link into a compact image that can be saved locally and shared or scanned from a phone camera.
 
 ![qr_code_generator](./demo.png)
 
