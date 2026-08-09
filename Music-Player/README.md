@@ -2,7 +2,7 @@
 
 This is a minimalist terminal-based music player written in Python using the `pygame` library. It allows you to browse `.mp3` files from a local `songs` folder, play a selected track, and control playback with simple keyboard commands.
 
-![music_player](./demo.mp4)
+[▶️ Watch the Music Player Demo](./demo.mp4)
 
 ## Files
 
