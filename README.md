@@ -19,7 +19,7 @@ A collection of quirky, creative, and curiosity-driven projects built simply bec
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Minimalist.git
+git clone https://github.com/millixs/Minimalist.git
 ```
 
 Navigate to any project folder:
