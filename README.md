@@ -16,23 +16,6 @@ Some solve real problems, others exist purely for fun or the challenge of creati
 - [`progression gpa`](Progression-GPA)
 - [`qr code`](QR-code)
 
-## Repository Structure
-
-```text
-Minimalist/
-│
-├── Calendar-Display/
-├── Dice-Roller/
-├── Donut/
-├── Editor/
-├── Matrix-Classic/
-├── Matrix-Rainbow/
-├── Music-Player/
-├── Progression-GPA/
-├── QR-code/
-└── README.md
-```
-
 ## Technologies
 
 The projects in this repository may use:
