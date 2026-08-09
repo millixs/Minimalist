@@ -1,6 +1,6 @@
 # `donut`
 
-This is a minimalist 3D ASCII donut animation that renders a rotating torus using character-based shading. The project includes two implementations: a compact C version that runs in the terminal, and a Python version that uses Pygame to display the same effect in a colorful window.
+This is a minimalist 3D ASCII donut animation that renders a rotating torus using character-based shading. The project includes 2 implementations: a compact C version that runs in the terminal, & a Python version that uses Pygame to display the same effect in a colorful window.
 
 <table>
   <tr>
