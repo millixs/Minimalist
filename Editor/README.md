@@ -1,4 +1,4 @@
-# Editor
+# `editor`
 
 This is a minimalist C-based text editor that lets you open a file, view its contents, choose a line to edit, and save the updated version back to the file. It is a simple command-line tool designed for quick in-place line editing.
 
