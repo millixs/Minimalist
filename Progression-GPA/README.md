@@ -1,4 +1,4 @@
-# `sgpa cgpa tracker`
+# `progression gpa`
 
 A minimalist Python tool that takes semester wise SGPA input and plots the SGPA/CGPA progression using matplotlib.
 
