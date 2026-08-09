@@ -1,6 +1,6 @@
-# `calendar cli`
+# `calendar display`
 
-This is a minimalist command-line calendar viewer written in Python using the built-in `calendar` module, allowing you to generate and display a formatted calendar for any given month and year.
+This is a minimalist command line calendar viewer written in Python using the built in `calendar` module, allowing you to generate and display a formatted calendar for any given month and year.
 
 ![calendar_cli](demo.gif)
 
