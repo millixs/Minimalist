@@ -14,15 +14,6 @@ A collection of quirky, creative, and curiosity-driven projects built simply bec
 - [`progression gpa`](Progression-GPA)
 - [`qr code`](QR-code)
 
-## Technologies
-
-The projects in this repository may use:
-
-- Python / C / HTML / CSS / JS
-- Standard Libraries
-- Terminal/Console Applications
-- Basic Algorithms and Logic Building
-
 ## Getting Started
 
 Clone the repository:
