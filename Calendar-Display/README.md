@@ -1,12 +1,8 @@
-<h1 align="center">calendar cli</h1>
+# `calendar cli`
 
-<p align="center">
 This is a minimalist command-line calendar viewer written in Python using the built-in `calendar` module, allowing you to generate and display a formatted calendar for any given month and year.
-</p>
 
-<p align="center">
-<img src="./demo.gif" width="70%" alt="Calendar Demo">
-</p>
+![calendar_cli](demo.gif)
 
 ## Prerequisites
 
