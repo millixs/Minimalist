@@ -8,8 +8,8 @@ This is a minimalist 3D ASCII donut animation that renders a rotating torus usin
     <td align="center"><b>Python (Pygame)</b></td>
   </tr>
   <tr>
-    <td><img src="/screenshots/donut_c.gif" width="380"/></td>
-    <td><img src="/screenshots/donut_py.gif" width="380"/></td>
+    <td><img src="donut_c.gif" width="380"/></td>
+    <td><img src="donut_py.gif" width="380"/></td>
   </tr>
 </table>
 
